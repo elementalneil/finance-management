@@ -186,7 +186,7 @@ public:
 		string password;
 		cout << "Please enter the password to clear files: ";
 		cin >> password;
-		if(password=="IamMessi10"){
+		if(password=="fI9L3#goA8"){
 			fstream file1;
 			file1.open("files/logs.txt", ios::out|ios::trunc);
 			file1.close();
